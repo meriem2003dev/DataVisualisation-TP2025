@@ -86,7 +86,3 @@ Your final practical work should include:
 - The recreated Misleading Chart (for educational comparison)
 - The final Explanatory Plot with proper chronological ordering and annotations
 - Brief commentary on the differences between the misleading and proper visualizations
-
----
-
-This updated structure focuses specifically on the well-documented Georgia DPH case study and uses USAFacts data for Georgia, providing a coherent, real-world example of data visualization ethics in public health communication.
